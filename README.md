@@ -1,9 +1,7 @@
-Hi, I’m Shiv J.M.[^1] I host quite a few personal projects here on GitHub, and [I write about all sorts of things elsewhere](https://shivjm.blog/). I’ve been doing this for three decades now, using a variety of languages and technologies. Professionally, I’ve been at it since 2007.
+Hi, I’m Shiv. I’ve been doing this professionally since 2007 and for the joy of it since the early ’90s, using more languages and technologies than I can remember the names of at this point. I’ve put a number of projects here on GitHub in the last few years, and [I write about all sorts of things elsewhere](https://shivjm.blog/).
 
-I’m a longtime Emacs user who’s painstakingly built [a development environment on Windows](https://github.com/shivjm-rc/configure-environment) through many experiments, though I use Linux as well, and I’m a staunch believer in a progressively enhanced, accessible web. Don’t get me started about [sites that rely on JS to display static text](https://shivjm.blog/your-javascript-only-website-sucks/).
+The important stuff: I’m a longtime Emacs user who’s painstakingly built [a development environment on Windows](https://github.com/shivjm-rc/configure-environment) through many experiments—though I happily use Linux too—and a staunch believer in an accessible, progressively enhanced web. (Don’t get me started about [displaying static text via JavaScript](https://shivjm.blog/your-javascript-only-website-sucks/).) I’m also obsessive about typography and, shall we say, [‘particular’ about my name](https://shivjm.name/).
 
-Recently, I’ve worked with a lot of TypeScript (or more rarely vanilla JavaScript), Java, Python, and my current language of choice, Rust. I’ve also been [trying to acquire some DevOps skills](https://shivjm.blog/the-death-and-rebirth-of-a-cluster/introduction/). You’ll see a bit of that here, but some of the more interesting stuff is [over on GitLab](https://gitlab.com/shivjm-www/infrastructure).
+Recently, I’ve worked with a lot of TypeScript (and a bit of vanilla JavaScript), Java, Python, and my current favourite, Rust. I’ve also been [exploring DevOps](https://shivjm.blog/the-death-and-rebirth-of-a-cluster/introduction/); the more interesting parts are [over on GitLab](https://gitlab.com/shivjm-www/infrastructure).
 
-If you’d like to talk, you can [reach me via email](mailto:shiv@shivjm.in).
-
-[^1]: Careful with the last name. Experience has made me [very particular about it](https://shivjm.name/).
+If you need to get in touch, you can [reach me via email](mailto:shiv@shivjm.in).
