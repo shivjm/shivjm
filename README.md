@@ -4,4 +4,4 @@ The important stuff: I’m a longtime Emacs user who’s painstakingly built [a 
 
 Recently, I’ve worked with a lot of TypeScript (and a bit of vanilla JavaScript), Java, Python, and my current favourite, Rust. I’ve also been [exploring DevOps](https://shivjm.blog/the-death-and-rebirth-of-a-cluster/introduction/); the more interesting parts were [over on GitLab](https://gitlab.com/shivjm-www/infrastructure), but I moved most of that to [my home infrastructure](https://gitlab.com/kehkashan/kehkashan), built on Proxmox, Nix, Ansible, and Terraform.
 
-You can [reach me via email](mailto:shiv@shivjm.in).
+You can reach me [via email](mailto:shiv@shivjm.in), [on Bluesky (@shivjm.in)](https://bsky.app/profile/shivjm.in), or [on Mastodon (@shivjm@mastodon.social)](https://mastodon.social/@shivjm).
